@@ -1,0 +1,7 @@
+21, BAS, John, Smith, 90, 85, 91
+72, OAT, Jane, Doe, 88, 99, 100
+36, BSE, James, Brown, 80.5, 76.2, 82
+42, AET, Natasha, Black, 75, 88.2, 82
+109, BSE, Brad, Pitt, 60, 73.5
+71, EET, Douglas, Howser, 99.5, 100, 96
+19, RES, Carson, Wentz, 100, 98.5, 92
